@@ -44,7 +44,7 @@
 			"js": ["logout.js"],
 			"matches": [
 				"*://eduvulcan.pl/wylogowanie",
-				"*://dziennik-uczen.vulcan.net.pl/*/nie-wiem-jaki-endpoint"
+				"https://dziennik-uczen.vulcan.net.pl/*/Account/Logout"
 			],
 			"run_at": "document_start"
 		}
